@@ -1,0 +1,11 @@
+{
+  "input_file": "attachment.jpg",
+  "file_length": 2489219,
+  "frames": 98,
+  "width": 1920,
+  "height": 1080,
+  "block_size": 8,
+  "gutter": 1,
+  "fps": 60,
+  "crf": 10
+}
